@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kilinar
-- 🌱 I’m currently studying the Java language and various related technologies, at the moment my main goal is Spring
+- 🌱 I’m currently studying the Java language and various related technologies.
 - 📫 How to reach me: email - "misha-kornilov-1999@mail.ru", Discord - "Kilinar#8249"
 
 <!---
